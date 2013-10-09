@@ -1,0 +1,6 @@
+[submodule "data_mining"]
+	path = data_mining
+	url = https://github.com/pelluch/data_mining.git
+[submodule "concurrent_programming"]
+	path = concurrent_programming
+	url = https://github.com/pelluch/concurrent_programming.git
