@@ -4,3 +4,9 @@
 [submodule "concurrent_programming"]
 	path = concurrent_programming
 	url = https://github.com/pelluch/concurrent_programming.git
+[submodule "concurrent-programming"]
+	path = concurrent-programming
+	url = https://github.com/pelluch/concurrent-programming.git
+[submodule "data-mining"]
+	path = data-mining
+	url = https://github.com/pelluch/data-mining.git
